@@ -1,1 +1,1 @@
-# Baller-Games-365
+This is ballergames-365 made by Martinage7 Games will frequently get added (i will try) Feel free to fork and add your own games or change them. This site is made purley from html, and meant to give a good gaming experience, for casual, maybe competitive (prolly not) and if you want to in school as well.
